@@ -1,16 +1,15 @@
 {
-    "name": "Standart",
-    "description": "Standart template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
-    "homepage": "http://www.yiiframework.com/",
+    "name": "Yii2Standart",
+    "description": "Yii2Standart template",
+    "keywords": ["Yii2Standart", "Yii2Standart template"],
+    "homepage": "http://v92372v7.beget.tech/",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "issues": "https://github.com/forenwork/yii2_public",
+        "forum": "http://v92372v7.beget.tech/",
+        "wiki": "http://v92372v7.beget.tech/",
+        "source": "https://github.com/forenwork/yii2_public"
     },
     "minimum-stability": "dev",
     "require": {
